@@ -3270,3 +3270,42 @@ ul.et_pb_side_nav .side_nav_item a.active { background-color: #fff !important; }
 	.et_pb_column_3_8 .et_pb_blog_grid .et_audio_container .mejs-time.mejs-currenttime-container.custom {margin-left: 0; }
 	.et_pb_column_1_4 .et_pb_blog_grid .et_pb_post { width: 100%; }
 }
+#main-header {
+	border-bottom: 3px solid #000;
+}
+#main-header .container {
+	background-image:url(images/meerkatmap.png);
+	background-repeat: no-repeat;
+	min-height: 90px;
+	position: relative;
+}
+#main-header h1 {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 80px;
+	padding: 0;
+	margin-bottom: 0;
+	line-height: 1.2;
+}
+#main-header h1 a {
+	font-size: 28px;
+	font-weight: bold;	
+}
+#main-header h1 a span {
+	display: block;
+	font-size: 13px;
+	font-weight: 300;	
+}
+#main-header h2 {
+	position: absolute;
+	bottom: 0;
+	left: 359px;
+	display: inline-block;
+	background-color: #000;
+	font-size: 13px;
+	color: #fff;
+	text-transform: uppercase;
+	padding: 5px 20px;
+	margin: 0;
+	letter-spacing: 1px;
+}

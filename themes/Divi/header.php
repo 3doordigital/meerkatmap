@@ -118,15 +118,13 @@
 
 		<header id="main-header" class="<?php echo esc_attr( $primary_nav_class ); ?>">
 			<div class="container clearfix">
-			<?php
-				$logo = ( $user_logo = et_get_option( 'divi_logo' ) ) && '' != $user_logo
-					? $user_logo
-					: $template_directory_uri . '/images/logo.png';
-			?>
-				<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-					<img src="<?php echo esc_attr( $logo ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) ); ?>" id="logo" />
-				</a>
-
+				<h1>
+                    <a href="<?php echo esc_url( home_url( '/' ) ); ?>">
+                        Meerkat Map
+                        <span>Explore the Meerkat Community</span>
+                    </a>
+				</h1>
+                <h2>100% Not Offical Meerkat</h2>
 				<div id="et-top-navigation">
 					<nav id="top-menu-nav">
 					<?php
