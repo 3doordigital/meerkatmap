@@ -46,6 +46,10 @@ Thumbs.db
 !mu-plugins/
 !plugins/
 !themes/
+
+!mu-plugins/*
+!plugins/*
+!themes/*
  
 # ignore these plugins
 wp-content/plugins/hello.php
