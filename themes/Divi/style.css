@@ -237,7 +237,7 @@ table.shop_table { margin-bottom: 30px !important; }
 				#top-menu a, .fullwidth-menu a { color: #666; text-decoration: none; display: block; position: relative; }
 				#top-menu a:hover, .fullwidth-menu a:hover { color: #333; }
 				#top-menu li.current-menu-item > a, .fullwidth-menu li.current-menu-item > a { font-weight: 500; }
-				#top-menu li > a, .fullwidth-menu li > a { padding-bottom: 29px;}
+				#top-menu li > a, .fullwidth-menu li > a { padding-bottom: 29px; padding-top: 17px; }
 				.et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_light .fullwidth-menu > li > a { color: rgba( 255, 255, 255, 0.7 ); }
 				.et_nav_text_color_light #top-menu > li > a:hover, .et_nav_text_color_light .fullwidth-menu > li > a:hover { color: rgba( 255, 255, 255, 1 ); }
 				.et_nav_text_color_light #top-menu li.current-menu-ancestor > a, .et_nav_text_color_light #top-menu li.current-menu-item > a,
