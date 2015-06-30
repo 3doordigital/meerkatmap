@@ -3310,7 +3310,7 @@ ul.et_pb_side_nav .side_nav_item a.active { background-color: #fff !important; }
 	letter-spacing: 1px;
 }
 #main-header h2 span {
-	border-bottom: dotted 1px #666;
+	border-bottom: dotted 1px #fff;
 }
 #main-header h2 sup {
 	font-size: 9px;
