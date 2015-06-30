@@ -82,7 +82,7 @@ cite, em, i { font-style: italic; }
 pre, code { font-family: Courier New, monospace; margin-bottom: 10px; }
 ins { text-decoration: none; }
 sup, sub { height: 0; line-height: 1; position: relative; vertical-align: baseline; }
-sup { bottom: 0.8em; }
+sup { bottom: 0.6em; }
 sub { top: 0.3em; }
 dl { margin: 0 0 1.5em 0; }
 dl dt { font-weight: bold; }
@@ -3311,4 +3311,7 @@ ul.et_pb_side_nav .side_nav_item a.active { background-color: #fff !important; }
 }
 #main-header h2 span {
 	border-bottom: dotted 1px #666;
+}
+#main-header h2 sup {
+	font-size: 9px;
 }
