@@ -3309,3 +3309,6 @@ ul.et_pb_side_nav .side_nav_item a.active { background-color: #fff !important; }
 	margin: 0;
 	letter-spacing: 1px;
 }
+#main-header h2 span {
+	text-decoration: underline;	
+}

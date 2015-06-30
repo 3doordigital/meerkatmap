@@ -124,7 +124,7 @@
                         <span>Explore the Meerkat Community</span>
                     </a>
 				</h1>
-                <h2>100% Not Official Meerkat</h2>
+                <h2><span>100%</span> Not Official Meerkat</h2>
 				<div id="et-top-navigation">
 					<nav id="top-menu-nav">
 					<?php
