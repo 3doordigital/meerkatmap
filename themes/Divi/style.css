@@ -3310,5 +3310,5 @@ ul.et_pb_side_nav .side_nav_item a.active { background-color: #fff !important; }
 	letter-spacing: 1px;
 }
 #main-header h2 span {
-	text-decoration: underline;	
+	border-bottom: dotted 1px #666;
 }
